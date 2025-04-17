@@ -1,2 +1,2 @@
 hi ,
-this i testing program for bo motor.
+this is testing program for bo motor.
